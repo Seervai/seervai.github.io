@@ -1,0 +1,4 @@
+baseURL = 'https://seervai.srht.site/'
+languageCode = 'en-us'
+title = 'The Other Side'
+theme = 'lugo'
